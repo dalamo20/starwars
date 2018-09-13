@@ -1,5 +1,11 @@
-# **Instructions**
+# Star Wars Express
 
-* Spend a few moments looking over the code sent to you. First, get the server running, then begin to dissect the JavaScript code found at the bottom of `add.html`.
+## What is Star Wars Express
+Star Wars Express is a fun web app where you can add characters to your jedi list and adjust their attributes to compare for fun. 
 
-* Explain to one another what the code does, what its for, and why its relevant to the application so far. Be sure to explain to one another what the `$.post` code is doing.
+## How It Works
+Start by adding a new character. 
+Enter a name, what is their role?, how old are they?, and how strong do you believe them to be? Then add them to your force. 
+Next, you want to view characters then search for your new team by name. 
+
+## MAY THE FORCE BE WITH YOU!!!
